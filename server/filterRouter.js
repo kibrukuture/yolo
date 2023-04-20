@@ -33,7 +33,6 @@ function isDateBetween(startDate, endDate, checkDate) {
 }
 
 function filterUser(option, term, data) {
-  console.log(option);
   const fn = (oflag) => {
     // oflag: option flag
     return data.filter((item) => {
