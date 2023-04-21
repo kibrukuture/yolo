@@ -12,7 +12,7 @@ To get started with the application, please follow these instructions:
 
 ## Usage
 
-After installing the dependencies, you can start the application by running the following command from the `fe_yolo` & `server` folder:
+After installing the dependencies, you can start the application by running the following command from the `/fe_yolo` & `/server` folder:
 
 `npm run dev`
 
