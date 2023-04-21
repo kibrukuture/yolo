@@ -16,7 +16,7 @@ After installing the dependencies, you can start the application by running the 
 
 `npm run dev`
 
-This command will start the frontend server and open up the application in your default web browser. The application will automatically reload whenever you make changes to the code.
+This command will start the frontend & server apps and open up the application in your default web browser. The application will automatically reload whenever you make changes to the code.
 
 ## Features
 
