@@ -27,7 +27,8 @@ The Yolo Games Dashboard Application allows you to perform the following tasks:
 - Delete games
 - View the list of all games
 - Search for games
-- Filter games by genre, rating, and release date
+- Filter games by name, publisher, and release date
+- Add, edit, delete, filter & view users.
 
 ## Technologies Used
 
